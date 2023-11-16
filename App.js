@@ -1,3 +1,4 @@
+import 'react-native-gesture-handler'; // Tienes que ser la primera
 import React from 'react';
 import {
   SafeAreaView,
@@ -21,7 +22,7 @@ const App = () => {
 
   return (
     <>
-      
+
     </>
   );
 };
